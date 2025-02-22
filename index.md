@@ -1,6 +1,8 @@
 ---
-title: EaseFilter File Security Solution SDK
+title: EaseFilter File Security File System Filter Driver SDK
 ---
+
+EaseFilter Comprehensive File Security SDK is a set of file system filter driver software development kit which includes File Monitor Filter Driver, File Access Control Filter Driver, Transparent File Encryption Filter Driver, Process Filter Driver and Registry Filter Driver. The File Security Solution encompasses file security, digital rights management, encryption, file monitoring, file auditing, file tracking, data loss prevention, process monitoring and protection, and system configuration protection.The EaseFilter File System Filter Driver can log, observe, modify, or even prevent the I/O operations for one or more file systems or file system volumes.
 
 ## EaseFilter File System Filter Driver SDK Reference
 | Product Name | Description |
